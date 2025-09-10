@@ -1,0 +1,1 @@
+The Pomodoro Technique is a popular time management method. It helps people stay focused by breaking work into intervals: 25 minutes of focused work (a Pomodoro session). 5 minutes short break after each Pomodoro. 15 minutes long break after every 4 Pomodoros. This cycle helps reduce burnout, increase focus, and improve productivity.
